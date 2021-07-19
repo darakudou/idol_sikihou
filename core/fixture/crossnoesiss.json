@@ -1,0 +1,151 @@
+[
+  {"model": "core.idol",
+    "pk": 1,
+    "fields": {
+      "name": "クロスノエシス"
+    }
+  },
+  {"model": "core.music",
+    "pk": 1,
+    "fields": {
+      "artist": 1,
+      "title": "cross",
+      "seconds": 250
+    }
+  },
+  {
+    "model": "core.music",
+    "pk": 2,
+    "fields": {
+      "artist": 1,
+      "title": "残夜",
+      "seconds": 273
+    }
+  },
+  {
+    "model": "core.music",
+    "pk": 3,
+    "fields": {
+      "artist": 1,
+      "title": "in the Dark",
+      "seconds": 295
+    }
+  },
+  {
+    "model": "core.music",
+    "pk": 4,
+    "fields": {
+      "artist": 1,
+      "title": "ペトリコール",
+      "seconds": 264
+    }
+  },
+  {
+    "model": "core.music",
+    "pk": 5,
+    "fields": {
+      "artist": 1,
+      "title": "skit",
+      "seconds": 115
+    }
+  },
+  {
+    "model": "core.music",
+    "pk": 6,
+    "fields": {
+      "artist": 1,
+      "title": "薄明",
+      "seconds": 262
+    }
+  },
+  {
+    "model": "core.music",
+    "pk": 7,
+    "fields": {
+      "artist": 1,
+      "title": "seed",
+      "seconds": 306
+    }
+  },
+  {
+    "model": "core.music",
+    "pk": 8,
+    "fields": {
+      "artist": 1,
+      "title": "インカーネイション",
+      "seconds": 283
+    }
+  },
+  {
+    "model": "core.music",
+    "pk": 9,
+    "fields": {
+      "artist": 1,
+      "title": "previosly",
+      "seconds": 223
+    }
+  },
+  {
+    "model": "core.music",
+    "pk": 10,
+    "fields": {
+      "artist": 1,
+      "title": "MY LAST DANCE",
+      "seconds": 263
+    }
+  },
+  {
+    "model": "core.music",
+    "pk": 11,
+    "fields": {
+      "artist": 1,
+      "title": "VISION",
+      "seconds": 235
+    }
+  },
+  {
+    "model": "core.music",
+    "pk": 12,
+    "fields": {
+      "artist": 1,
+      "title": "VENOM",
+      "seconds": 242
+    }
+  },
+  {
+    "model": "core.music",
+    "pk": 13,
+    "fields": {
+      "artist": 1,
+      "title": "VOICE",
+      "seconds": 254
+    }
+  },
+  {
+    "model": "core.music",
+    "pk": 14,
+    "fields": {
+      "artist": 1,
+      "title": "moon light",
+      "seconds": 215
+    }
+  },
+  {
+    "model": "core.music",
+    "pk": 15,
+    "fields": {
+      "artist": 1,
+      "title": "光芒",
+      "seconds": 259
+    }
+  },
+  {
+    "model": "core.music",
+    "pk": 16,
+    "fields": {
+      "artist": 1,
+      "title": "翼より",
+      "seconds": 294
+    }
+  }
+]
