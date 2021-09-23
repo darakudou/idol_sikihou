@@ -1,0 +1,9 @@
+[
+  {"model": "core.idol",
+    "pk": 1,
+    "fields": {
+      "name": "クロスノエシス",
+      "is_group": true
+    }
+  }
+]

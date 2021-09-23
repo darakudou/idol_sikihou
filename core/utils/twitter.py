@@ -23,6 +23,7 @@ class TweepyUtils():
     def get_old_tweet_from_max_id(self, acount):
 
         # 今持っているデータの最小値を最大値としてAPIを取得する(DB上の最小値より前が欲しいため）
-        if max_id := acount.min_id:
+        max_id = acount.min_id
+        if max_id:
             return self.api.user_timeline(id=acount.twitter_id, tweet_mode='extended', max_id=max_id)
         return self.api.user_timeline(id=acount.twitter_id, tweet_mode='extended')

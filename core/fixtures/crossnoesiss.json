@@ -2,7 +2,8 @@
   {"model": "core.idol",
     "pk": 1,
     "fields": {
-      "name": "クロスノエシス"
+      "name": "クロスノエシス",
+      "google_calender": "crns.schedule@gmail.com"
     }
   },
   {"model": "core.music",
@@ -146,6 +147,14 @@
       "artist": 1,
       "title": "翼より",
       "seconds": 294
+    }
+  },
+  {
+    "model": "core.twitteracount",
+    "pk": 1,
+    "fields": {
+      "idol": 1,
+      "twitter_id": 1109658428752814081
     }
   }
 ]
